@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+		"package": "com.prodev.mobileapp0x04",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
